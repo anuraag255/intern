@@ -1,0 +1,58 @@
+.field{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    border: none;
+}
+h2{
+    margin-top: 40px;
+    font-family: 'Times New Roman';
+    color: darkcyan;
+}
+.email{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    padding: 15px;
+    padding-right: 150px;
+}
+.password{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    padding: 15px;
+    padding-right: 150px;
+    margin-top: 40px;
+    
+}  
+.checkbox{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 180px;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.for{
+  margin-left: 140px;
+}
+.user{
+    color: darkcyan;
+}
+.acc{
+    margin-left: 140px;
+}
+.sign{
+    color: darkcyan;
+}
